@@ -9,4 +9,4 @@ For the final It wast interesting learn new comands for the part of csv to html.
 This part it nice to see how looks everything.
 ** Finally, the website must be deployed to GitHub pages.  
 Git Hub Pages
-https://luciernaguz.github.io/Web-Design-Challenge/
+https://luciernaguz.github.io/Web-Design/
