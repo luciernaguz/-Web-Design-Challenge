@@ -10,3 +10,14 @@ This part it nice to see how looks everything.
 ** Finally, the website must be deployed to GitHub pages.  
 Git Hub Pages
 https://luciernaguz.github.io/Web-Design/
+
+![Visualizations](/assets/images/visualizations.png)
+
+![Comparison](/assets/images/comparison.png)
+
+![Data](/assets/images/data.png)
+
+
+![Plots](/assets/images/Fig1.png)
+
+![Plots](/assets/images/Fig2.png)
